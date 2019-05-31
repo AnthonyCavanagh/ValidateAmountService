@@ -1,0 +1,1 @@
+A webbased application that takes in an amount and uses JSR-303 annotation to validate the amount according to the rules, which are divide the amount entered into a weekly amount. Frequencies can be entered as a week, two weeks, four weeks, a month which is 4.5 weeks, a quarter and a year.
